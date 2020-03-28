@@ -1,0 +1,14 @@
+.image {
+    margin: 7px 7px 7px 0;
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+.text {
+    line-height: 170%;
+  color:darkslategrey;
+}
+.bcolor{
+    background-color:azure
+
